@@ -1,0 +1,6 @@
+com\interview\entity\Partition.class
+com\interview\service\VowelAnalyzerService.class
+com\interview\exception\IncorrectFilePathOrName.class
+com\interview\entity\Vowels.class
+com\interview\service\WordAnalyserService.class
+com\interview\AppRunner.class
